@@ -1,4 +1,4 @@
-# Scheduling-from-Appointy
+# Scheduling-Task
 
 I created an easy to use Graphical Interface that helped my client make a very specific schedule based on information from a website. My client wanted a schedule to have more features than what was procided by this website. 
 
